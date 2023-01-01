@@ -19,3 +19,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - 
 
 Happy Coding!
+[The Frontend Career Path](https://scrimba.com/learn/frontend)
